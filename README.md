@@ -1,4 +1,4 @@
-## Olá! Eu sou o Anderson Leandro
+## Olá! Eu sou o Anderson Leandro!
 ### Linguagens e interesses:
  <div>
   <a href="https://github.com/anderlr">
@@ -20,10 +20,10 @@
 ##
   
 ### Contatos:
-<a href="anderlr13@gmail.com">
-  <img align="center" alt="Js" height="48" width="48" src="https://img.icons8.com/color/48/000000/gmail--v1.png"/>
+<a href="mailto:anderlr13@gmail.com">
+  <img align="center"  height="48" width="48" src="https://img.icons8.com/color/48/000000/gmail--v1.png"/>
 </a>
 <a href="www.linkedin.com/in/ander-lr">
-  <img align="center" alt="Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  <img align="center"  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
-  
+
