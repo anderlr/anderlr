@@ -23,7 +23,7 @@
 <a href="mailto:anderlr13@gmail.com">
   <img align="center"  height="48" width="48" src="https://img.icons8.com/color/48/000000/gmail--v1.png"/>
 </a>
-<a href="www.linkedin.com/in/ander-lr" target="_blank">
+<a href="https://www.linkedin.com/in/ander-lr" rel="nofollow">
   <img align="center"  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
